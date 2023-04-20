@@ -1,4 +1,7 @@
-body{
+head {
+html {font-size: 10px; font-family: "Open Sans", sans-
+serif;
+ body {
   background: rgb(114, 194, 118)
 }
 h1 {
