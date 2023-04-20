@@ -1,6 +1,42 @@
-.cabecalho{
-    width: 100%;
-    height: 20%;
-    background-color: rgb(56, 134, 127);
-    
+body{
+  background: rgb(114, 194, 118)
 }
+h1 {
+  text-align: center;
+}
+.OCapitalismo {
+  position: absolute;
+  width: 100%;
+  height: 45px;
+  background: rgb(32, 85, 69);
+  top: 0;
+  left: 0;
+	}
+	
+.problema {
+   position: absolute;
+   background: rgb(220, 238, 118);
+   width: 200px;
+   height: 200px;
+   color: #FFFFFF;
+   right: 500px;
+   top: 200px;
+}
+.osinteressados  {
+   position: absolute;
+   background: rgb(160, 94, 221);
+   width: 200px;
+   height: 200px;
+   color: #000000;
+   padding-bottom: 705px;
+   top: 200px;
+}
+
+.Propostas {
+  position: absolute;
+  width: 100%;
+  height: 45px;
+  background: rgb(32, 85, 69);
+  top: 0;
+  left: 0;
+	}
