@@ -13,7 +13,7 @@ h1 {
   background: rgb(32, 85, 69);
   top: 0;
   left: 0;
-	}
+}
 	
 .problema {
    position: absolute;
@@ -42,5 +42,10 @@ h1 {
   top: 0;
   left: 0;
 	}
-.#Capital01 {
-align
+.#Capital01.png {
+ width: 30%;
+ height: 15px;
+top: 10;
+left:0,
+
+
