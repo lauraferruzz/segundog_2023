@@ -1,102 +1,41 @@
-.h{
-  font-family: 'Oswald', sans-serif;
-  color: black
+:root{
+--cor-pagina: #F2E7DC;
+--cor-fonte: #0D0D0D;
+--cor-titulo: #027373; 
+--cor-subtitulo: #038C7F;
 }
-  .hh{
-    font-family: 'Bungee Inline', cursive;
-    color: #00265C;
-  }
-  .hhh{
-    color: #F06848;
-  }
- .hh1{
-  color: black;
- }
- .im{
-  width: auto;
-  height: auto;
- }
 
-
-
-head { font-size: 10px; font-family: "Open Sans", sans-
-serif; }
- body {
-  background: rgb(114, 194, 118)
+*{
+  margin:0;
+  padding: 0;
 }
-h1 {
+
+.texto{
+  font-family: 'Nanum Gothic', sans-serif;
+  color: #0D0D0D;
   text-align: center;
+  font-size: 22px;
 }
-.OCapitalismo {
-  position: absolute;
-  width: 100%;
-  height: 45px;
-  background: rgb(32, 85, 69);
-  top: 0;
-  left: 0;
-}
-	
-.problema {
-   position: absolute;
-   background: rgb(220, 238, 118);
-   width: 200px;
-   height: 200px;
-   color: #FFFFFF;
-   right: 500px;
-   top: 200px;
-}
-.osinteressados  {
-   position: absolute;
-   background: rgb(160, 94, 221);
-   width: 200px;
-   height: 200px;
-   color: #000000;
-   padding-bottom: 705px;
-   top: 200px;
-}
+  
+  .titulos{
+    color: #027373;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+  }
+ .subtitulos{
+  color: #038C7F;
+  font-size: 27px;
+  font-family: 'Be Vietnam Pro', sans-serif;
+ }
+ body{
+  background-color: #F2E7DC;
+ }
+ .link{
+  font-size: 20px;
+  display: flex;
+  align-items: end;
+ }
+.transferir.jpg {
+align-content: center;
 
-.Propostas {
-  position: absolute;
-  width: 100%;
-  height: 45px;
-  background: rgb(32, 85, 69);
-  top: 0;
-  left: 0;
-	}
-.#Capital01.png {
- width: 30%;
- height: 15px;
-top: 10;
-left:0,
 }
-
-.#desigualdade-social.jpg {
-width: %;
-height: px;
-top: 0;
-bottom-padding: 0;
-}
-.#gp.jpg {
-width: %;
-height: px;
-top: 0;
-bottom-padding: 0;
-}
-.#md.jpg {
-width: %;
-height: px;
-top: 0;
-bottom-padding: 0;
-}
-.#transferir.jpg {
-width: %;
-height: px;
-top: 0;
-bottom-padding: 0;
-}
-.#transferir2.jpg
-
-
-
-
-
